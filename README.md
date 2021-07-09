@@ -1,5 +1,0 @@
-- 👋 Olá, meu nome é Julian.
-- 👀 Busco sempre me atualizar nas novas práticas e tecnologias de front end.
-- 🌱 No momento, estou aprendendo mais sobre React e Node.
-- 💞️ Atuo há muito tempo como freelancer solo e busco colaborar em equipes para melhor desenvolvimento.
-- 📫 Estou por aqui e no LinkedIn (julianjgn)!
